@@ -1,0 +1,21 @@
+{
+    "name": "lukasdev/scanner",
+    "description": "Exemplo de pacote no packagist - Livro Modern PHP",
+    "keywords": ["url", "scanner", "csv", "modernphp"],
+    "homepage": "https://github.com/lukasdev/scanner",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Silva",
+            "email": "dev.lucassilva@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "LukasDev\\ModernPHP\\": "src/"
+        }
+    }
+}
