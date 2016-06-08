@@ -1,6 +1,7 @@
 # URL Scanner
 
 Escaneia uma url e reporta urls inacessiveis (repositório teste)
+DESCONSIDERE O CONTEÚDO DESTE REPOSITÓRIO, TRATA-SE APENAS DE UM ESTUDO EM OFF!
 
 ## Install
 
